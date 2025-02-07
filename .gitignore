@@ -1,2 +1,5 @@
 # Ignores all emacs autosave files
 *.*~
+# Ignores all emacs recovery files
+#*
+.#*
